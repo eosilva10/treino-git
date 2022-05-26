@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eosilva10/proj-cronometro/issues"
   },
-  "homepage": "https://github.com/eosilva10/proj-cronometro#readme"
+  "homepage": "https://github.com/eosilva10/proj-cronometro#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
