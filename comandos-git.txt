@@ -1,0 +1,13 @@
+REPOSITÓRIO LOCAL: NA SUA MÁQUINA
+REPOSITÓRIO REMOTO: GITHUB..
+
+COMANDOS GIT:
+
+CONFIGURANDO USERNAME: git config --global user.name "nomeUsuario"
+CONFIGURANDO EMAIL: git config --global user.email "emailUsuario"
+CONFIGURANDO EDITOR: git config --global core.editor 'code --wait'
+
+INICIAR REPOSITÓRIO LOCAL NUMA PASTA: git init
+MOSTRAR O CONTEUDO DO REPOSITÓRIO: git status
+ADICIONAR ARQUIVOS NO STAGE: git add nomeArquivo.txt // git add * (PARA ADICIONAR + DE 1 ARQUIVO)
+REMOVENDO ARQUIVO DA STAGE: git rm --cached nomeArquivo.txt
