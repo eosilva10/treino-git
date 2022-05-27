@@ -6,5 +6,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(3001, ()=> {
-    console.log('-- API RODANDO NA PORTA 3001 --');
+    console.log('-- API RODANDO NA PORTA 3001! --');
 })
